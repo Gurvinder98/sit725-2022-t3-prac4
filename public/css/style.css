@@ -1,0 +1,40 @@
+.navbar-size {
+  width: 95%;
+  margin: 0 auto;
+  z-index: 1;
+}
+.user-image-size {
+  height: 56px;
+  margin: 4px 0;
+}
+.main-body {
+  background-color: grey;
+  color: black;
+  height: 100%;
+  width: 100%;
+  background-position: 50% 50%;
+}
+.materialboxed-image {
+  margin: 0 auto;
+  height: 400px;
+}
+.click-me-button {
+  background-color: #ee6e73;
+  margin-top: 50px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  
+}
+.carousel {
+  background-color:black;
+  margin-top: 50px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  
+
+
+}
